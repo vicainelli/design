@@ -1,3 +1,3 @@
 # Designs
 
-## [Daily UI Challenge](daily-ui-challenge)
+- [Daily UI Challenge](daily-ui-challenge)
