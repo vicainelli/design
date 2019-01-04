@@ -1,3 +1,6 @@
 # Daily UI Challenge
 
-- [Day 001](png/dailyui-001-signup.png)
+
+| Day | Challenge |
+|:--- |:--- |
+|[001](png/dailyui-001-signup.png) | [Sign Up Form](png/dailyui-001-signup.png)
