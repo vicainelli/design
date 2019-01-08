@@ -1,9 +1,9 @@
 # Daily UI Challenge
 
 
-| Day | Challenge | Status
-|:--- |:--- |:--- |
-|[001](png/dailyui-001-signup.png) | [Sign Up Form](png/dailyui-001-signup.png) |  ✅ Done |
+| Day | Challenge | Image | Live Code
+|:--- |:--- |:--- |:--- |
+| 001 | Sign Up Form | [PNG](png/dailyui-001-signup.png) | [CodePen](https://codepen.io/vicainelli/pen/vvaGXV) |
 | 002 | Credit Card Checkout |  |
 | 003 | Landing Page| |
 | 004 | Calculator | |
