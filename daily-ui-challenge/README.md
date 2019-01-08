@@ -7,3 +7,4 @@
 | 002 | Credit Card Checkout |  |
 | 003 | Landing Page| |
 | 004 | Calculator | |
+| 005 | App Icon | |
