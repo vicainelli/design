@@ -10,3 +10,4 @@
 | 005 | App Icon | [PNG](png/dailyui-005-app-icon.png) | - |
 | 006 | User Profile | |
 | 007 | Settings | |
+| 008 | 404 page | |
