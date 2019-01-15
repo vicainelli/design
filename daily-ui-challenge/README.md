@@ -11,3 +11,5 @@
 | 006 | User Profile | |
 | 007 | Settings | |
 | 008 | 404 page | |
+| 009 | Music Player | |
+| 010 | Social Share | |
