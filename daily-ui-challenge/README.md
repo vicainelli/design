@@ -13,3 +13,5 @@
 | 008 | 404 page | |
 | 009 | Music Player | |
 | 010 | Social Share | |
+| 011 | Flash Message (Error/Success) | |
+
