@@ -14,4 +14,4 @@
 | 009 | Music Player | |
 | 010 | Social Share | |
 | 011 | Flash Message (Error/Success) | |
-
+| 012 | E-Commerce Shop (Single Item) | |
