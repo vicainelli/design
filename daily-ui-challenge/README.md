@@ -1,5 +1,6 @@
 # Daily UI Challenge
 
+[Issues](https://github.com/vicainelli/designs/labels/Daily%20UI%20Challenge)
 
 | Day | Challenge | Image | Live Code |
 |:--- |:--- |:--- |:--- |
