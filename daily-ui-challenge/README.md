@@ -18,3 +18,6 @@
 | 012 | E-Commerce Shop (Single Item) | |
 | 013 | Direct Messaging | |
 | 014 | Countdown Timer | |
+| 015 | On/Off Switch | |
+| 016 | Pop-Up / Overlay | |
+| 017 | Email Receipt | |
