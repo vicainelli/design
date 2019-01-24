@@ -1,6 +1,6 @@
 # Daily UI Challenge
 
-[Issues](https://github.com/vicainelli/designs/labels/Daily%20UI%20Challenge)
+[Issues](https://github.com/vicainelli/designs/issues?q=is%3Aopen+label%3A"Daily+UI+Challenge"+sort%3Acreated-asc)
 
 | Day | Challenge | Image | Live Code |
 |:--- |:--- |:--- |:--- |
