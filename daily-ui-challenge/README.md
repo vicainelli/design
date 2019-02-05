@@ -21,3 +21,9 @@
 | 015 | On/Off Switch | |
 | 016 | Pop-Up / Overlay | |
 | 017 | Email Receipt | |
+| 018 | Analytics Chart | |
+| 019 | Leaderboard | |
+| 020 | Location Tracker | |
+| 021 | Home Monitoring Dashboard | |
+| 022 | Search | |
+| 023 | Onboarding | |
