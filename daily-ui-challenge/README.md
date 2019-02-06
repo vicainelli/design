@@ -29,3 +29,4 @@
 | 023 | Onboarding | |
 | 024 | Boarding Pass | |
 | 025 | TV App | |
+| 026 | Subscribe | |
