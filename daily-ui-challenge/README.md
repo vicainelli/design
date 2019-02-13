@@ -32,3 +32,6 @@
 | 026 | Subscribe | |
 | 027 | Dropdown | |
 | 028 | Contact Us | |
+| 029 | Map | |
+| 030 | Pricing | |
+| 031 | File Upload | |
