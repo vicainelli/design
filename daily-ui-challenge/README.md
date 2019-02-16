@@ -35,3 +35,5 @@
 | 029 | Map | |
 | 030 | Pricing | |
 | 031 | File Upload | |
+| 032 | Crowdfunding Campaign | |
+| 033 | Customize Product | |
