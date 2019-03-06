@@ -38,3 +38,15 @@
 | 032 | Crowdfunding Campaign | |
 | 033 | Customize Product | |
 | 034 | Car Interface | |
+| 035 | Blog Post | |
+| 036 | Special Offer | |
+| 037 | Weather | |
+| 038 | Calendar | |
+| 039 | Testimonials | |
+| 040 | Recipe | |
+| 041 | Workout Tracker | |
+| 042 | ToDo List | |
+| 043 | Food/Drink Menu | |
+| 044 | Favorites | |
+| 045 | Info Card | |
+| 046 | Invoice | |
