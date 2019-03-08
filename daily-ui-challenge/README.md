@@ -51,3 +51,4 @@
 | 045 | Info Card | |
 | 046 | Invoice | |
 | 047 | Activity Feed | | 
+| 048 | Coming Soon | | 
