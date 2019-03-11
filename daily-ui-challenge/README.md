@@ -52,3 +52,4 @@
 | 046 | Invoice | |
 | 047 | Activity Feed | | 
 | 048 | Coming Soon | | 
+| 049 | Notifications | |
