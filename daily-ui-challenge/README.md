@@ -55,3 +55,5 @@
 | 049 | Notifications | |
 | 050 | Job Listing | [Dribbble](https://dribbble.com/shots/5031601-GitHub-Jobs-Home) |  | 
 | 051 | Press Page | | | 
+| 052 | Logo Design | | |
+| 053 | Header Navigation | |
