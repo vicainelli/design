@@ -62,3 +62,5 @@
 | 056 | Breadcrumbs | |
 | 057 | Video Player | | 
 | 058 | Shopping Cart | | 
+| 059 | Background Pattern | | 
+| 060 | Color Picker | |
