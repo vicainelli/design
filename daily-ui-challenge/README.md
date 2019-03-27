@@ -64,3 +64,4 @@
 | 058 | Shopping Cart | | 
 | 059 | Background Pattern | | 
 | 060 | Color Picker | |
+| 061 | Redeem Coupon | | 
