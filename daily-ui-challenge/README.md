@@ -65,3 +65,4 @@
 | 059 | Background Pattern | | 
 | 060 | Color Picker | |
 | 061 | Redeem Coupon | | 
+| 062 | Workout of the Day | | 
