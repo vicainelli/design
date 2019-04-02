@@ -68,3 +68,4 @@
 | 062 | Workout of the Day | | 
 | 063 | Best of 2015 | |
 | 064 | Select User Type | |
+| 065 | Notes Widget | |
