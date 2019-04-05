@@ -69,4 +69,6 @@
 | 063 | Best of 2015 | |
 | 064 | Select User Type | |
 | 065 | Notes Widget | |
-| 066 | Hotel Booking | |
+| 066 | Statistics | |
+| 067 | Hotel Booking | |
+| 068 | Flight Search | |
