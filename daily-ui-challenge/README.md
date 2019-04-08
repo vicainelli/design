@@ -72,3 +72,4 @@
 | 066 | Statistics | |
 | 067 | Hotel Booking | |
 | 068 | Flight Search | |
+| 069 | Trending | |
