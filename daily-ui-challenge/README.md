@@ -74,3 +74,4 @@
 | 068 | Flight Search | |
 | 069 | Trending | |
 | 070 | Event Listing | |
+| 071 | Schedule | | 
