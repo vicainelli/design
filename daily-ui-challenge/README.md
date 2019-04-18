@@ -50,22 +50,22 @@
 | 044 | Favorites | |
 | 045 | Info Card | |
 | 046 | Invoice | |
-| 047 | Activity Feed | | 
-| 048 | Coming Soon | | 
+| 047 | Activity Feed | |
+| 048 | Coming Soon | |
 | 049 | Notifications | |
-| 050 | Job Listing | [Dribbble](https://dribbble.com/shots/5031601-GitHub-Jobs-Home) |  | 
-| 051 | Press Page | | | 
+| 050 | Job Listing | [Dribbble](https://dribbble.com/shots/5031601-GitHub-Jobs-Home) |  |
+| 051 | Press Page | | |
 | 052 | Logo Design | | |
 | 053 | Header Navigation | |
-| 054 | Confirmation | | 
+| 054 | Confirmation | |
 | 055 | Icon Set | |
 | 056 | Breadcrumbs | |
-| 057 | Video Player | | 
-| 058 | Shopping Cart | | 
-| 059 | Background Pattern | | 
+| 057 | Video Player | |
+| 058 | Shopping Cart | |
+| 059 | Background Pattern | |
 | 060 | Color Picker | |
-| 061 | Redeem Coupon | | 
-| 062 | Workout of the Day | | 
+| 061 | Redeem Coupon | |
+| 062 | Workout of the Day | |
 | 063 | Best of 2015 | |
 | 064 | Select User Type | |
 | 065 | Notes Widget | |
@@ -74,4 +74,10 @@
 | 068 | Flight Search | |
 | 069 | Trending | |
 | 070 | Event Listing | |
-| 071 | Schedule | | 
+| 071 | Schedule | |
+| 072 | Image Slider | |
+| 073 | Virtual Reality | |
+| 074 | Download App | |
+| 075 | Pre-Order | |
+| 076 | Loading... | |
+| 077 | Thank You | |
