@@ -81,3 +81,5 @@
 | 075 | Pre-Order | |
 | 076 | Loading... | |
 | 077 | Thank You | |
+| 078 | Pending Invitation | |
+| 079 | Itinerary | | 
