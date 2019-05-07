@@ -86,3 +86,11 @@
 | 080 | Date Picker | |
 | 081 | Status Update | |
 | 082 | Form | |
+| 083 | Button | |
+| 084 | Badge | |
+| 085 | Pagination | |
+| 086 | Progress Bar | |
+| 087 | Tooltip | |
+| 088 | Avatar | |
+| 089 | Terms of Service | |
+| 090 | Create New | |
