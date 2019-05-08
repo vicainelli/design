@@ -94,3 +94,4 @@
 | 088 | Avatar | |
 | 089 | Terms of Service | |
 | 090 | Create New | |
+| 091 | Curated for You | |
