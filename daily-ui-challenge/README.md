@@ -95,3 +95,10 @@
 | 089 | Terms of Service | |
 | 090 | Create New | |
 | 091 | Curated for You | |
+| 092 | F.A.Q. | |
+| 093 | Splash Screen | |
+| 094 | News | |
+| 095 | Product Tour | |
+| 096 | Currently In-Stock | |
+| 097 | Giveaway | |
+| 098 | Advertisement | |
