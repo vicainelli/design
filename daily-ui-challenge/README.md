@@ -102,3 +102,5 @@
 | 096 | Currently In-Stock | |
 | 097 | Giveaway | |
 | 098 | Advertisement | |
+| 099 | Categories | |
+| 100 | Redesign Daily UI Landing Page | |
